@@ -9,7 +9,7 @@ The remaining documentation describes how to switch the existing credentials to 
 * [Angular 2 CLI](https://cli.angular.io/)
 * [Node.js](https://nodejs.org/en/)
 * [NPM](https://www.npmjs.com/)
-* [Auth0 Account](https://auth0.com)
+* [AWS Account](https://aws.amazon.com)
 * [Box Developer Account](https://developer.box.com/)
 
 ### Configuration
